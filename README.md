@@ -21,7 +21,7 @@ The project is built using **EfficientNet-B0** as a feature extractor with a cus
 > This application is intended **solely for educational and research purposes**.  
 > It is **not a diagnostic tool** and must **not be used for clinical or medical decision-making**.
 
-🌐 **Try it live now**: [Brain Tumor Detection Generator on Streamlit]()
+🌐 **Try it live now**: [Brain Tumor Detection Generator on Streamlit](https://brain-tumor-detection-generator.streamlit.app/)
 
 ## 📤 How to Use
 
