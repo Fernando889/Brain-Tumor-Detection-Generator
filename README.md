@@ -159,5 +159,5 @@ streamlit run main.py
 ## 🙏 Acknowledgments
 
 - 📚 **Dataset**: [BRISC2025 on Kaggle](https://www.kaggle.com/datasets/briscdataset/brisc2025)
-- 🧠 **EfficientNet-B0**: Google AI
+- 🧠 **EfficientNet-B0**: `torchvision.models`
 - 💬 **Streamlit**: Open-source app framework
